@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: xerces.wso2:xercesImpl:2.8.1.wso2v1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/xerces/wso2/xercesImpl/2.8.1.wso2v1/xercesImpl-2.8.1.wso2v1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/xerces/wso2/xercesImpl/2.8.1.wso2v1/xercesImpl-2.8.1.wso2v1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/xerces/wso2/xercesImpl/2.8.1.wso2v1/xercesImpl-2.8.1.wso2v1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
